@@ -19,7 +19,6 @@ Capstone Project memiliki waktu pengerjaan selama 7 hari kerja (terhitung sejak 
 2. Read Menu
 ![image](https://user-images.githubusercontent.com/116096399/203171470-605a15a0-be47-4544-9585-38a7ca201919.png)
 ![image](https://user-images.githubusercontent.com/116096399/203171575-8163d2a0-add8-48ed-8a7d-7c1cb6e91892.png)
-![image](https://user-images.githubusercontent.com/116096399/203171681-255f8e9b-26ab-478c-8465-b6b52829893a.png)
 
 3. Create Menu
 ![image](https://user-images.githubusercontent.com/116096399/203172042-f037f1d5-a5a2-4104-be06-140d5bc78765.png)
