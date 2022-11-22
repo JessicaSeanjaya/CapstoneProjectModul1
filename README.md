@@ -4,7 +4,7 @@
 ### Latar Belakang
 Diakhir modul pertama program Job Connector Data Science Purwadhika, kami mendapatkan project untuk membuat program python menggunakan dasar-dasar pemrogaman python.
 Project ini ditujukan untuk mengukur seberapa jauh pemahaman kami terhadap materi pembelajaran dan langsung mengaplikasinya ke dalam suatu mini aplikasi transaksional yang terintegrasi.
-Capstone Project memiliki waktu pengerjaan selama 7 hari kerja (terhitung sejak akhir exam modul 1).
+Capstone Project memiliki waktu pengerjaan selama 7 hari kerja.
 
 ### Outline
 1. Data Collection
